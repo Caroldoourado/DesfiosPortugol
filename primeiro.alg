@@ -3,6 +3,7 @@ var
 
 inicio
 
-escreva("Olá, mundo!")
+escreval("Olá, mundo!")
+escreva("Me livrei da maldição.")
 
 fimalgoritmo
