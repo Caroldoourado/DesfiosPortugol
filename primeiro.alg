@@ -1,11 +1,12 @@
 algoritmo "primeiro"
 var
     //declarando variável
-    msg: Caractere;                                                  
+    ola, msg: Caractere;                                                  
 inicio
     //atribuindo valor a variável
+    ola <- "Olá, mundo!"
     msg <- "Me livrei da maldição."
-    escreval("Olá, mundo!")
     //mandando escrever utilizando variável
+    escreval(ola)
     escreva(msg)
 fimalgoritmo
